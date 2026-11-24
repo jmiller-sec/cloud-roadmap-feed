@@ -1,7 +1,7 @@
 {
-  "weekId": "2026-11-22",
-  "generated": "2026-11-22T08:05:00-06:00",
-  "summary": "All 52 lesson videos up, no plan changes. WGU cyber scholarship worth up to $6K.",
+  "weekId": "2026-11-24-mid",
+  "generated": "2026-11-24T06:55:00-06:00",
+  "summary": "Sophia Black Friday: 20% off first month with code SAVE2026, ends Nov 29.",
   "wguCatalog": "202610",
   "wguCourses": [
     {
@@ -193,31 +193,10 @@
   "findings": [
     {
       "type": "info",
-      "category": "wgu",
-      "title": "WGU Cybersecurity Scholarship: up to $6,000",
-      "detail": "It pays $1,500 per term for up to 4 terms in your degree. You apply 90 days before to 30 days after your start, so for Aug 1 2027 the window opens around May 3 2027.",
-      "link": "https://www.wgu.edu/financial-aid-tuition/scholarships/general/cybersecurity.html"
-    },
-    {
-      "type": "info",
       "category": "deals",
-      "title": "Sophia: watch for a Cyber Week code before Dec 1",
-      "detail": "Sophia is still $99/month. Its Cyber Week page shows only last year's 20%-off first month code, so check it again before you reactivate on Dec 1.",
-      "link": "https://www.sophia.org/lp/cyberweekpromo/"
-    },
-    {
-      "type": "info",
-      "category": "deals",
-      "title": "TryHackMe: no Black Friday sale yet",
-      "detail": "TryHackMe's pricing page shows no 2026 sale today (annual saves 38% vs monthly). Last year's 40% deal ran to Nov 28, so peek on Black Friday before SOC Level 1 on Jan 16.",
-      "link": "https://tryhackme.com/pricing"
-    },
-    {
-      "type": "info",
-      "category": "certs",
-      "title": "Certs: nothing new this week",
-      "detail": "AZ-900 and SC-200 have no retirement date, and no free Microsoft voucher event is open.",
-      "link": "https://learn.microsoft.com/en-us/credentials/retired-certification-exams"
+      "title": "Sophia: 20% off first month until Nov 29",
+      "detail": "Sophia's Black Friday code SAVE2026 takes 20% off the first month (then $99/month). It ends Nov 29, so using it means reactivating 2 days before your Dec 1 plan. Fine to skip and keep resting.",
+      "link": "https://www.sophia.org/lp/blackfridaypromo"
     }
   ]
 }
