@@ -1,7 +1,7 @@
 {
-  "weekId": "2026-11-24-mid",
-  "generated": "2026-11-24T06:55:00-06:00",
-  "summary": "Sophia Black Friday: 20% off first month with code SAVE2026, ends Nov 29.",
+  "weekId": "2026-11-26-mid",
+  "generated": "2026-11-26T06:48:39-06:00",
+  "summary": "TryHackMe Black Friday: 40% off annual Premium, ends Fri Nov 27 (5:59pm CT).",
   "wguCatalog": "202610",
   "wguCourses": [
     {
@@ -194,9 +194,9 @@
     {
       "type": "info",
       "category": "deals",
-      "title": "Sophia: 20% off first month until Nov 29",
-      "detail": "Sophia's Black Friday code SAVE2026 takes 20% off the first month (then $99/month). It ends Nov 29, so using it means reactivating 2 days before your Dec 1 plan. Fine to skip and keep resting.",
-      "link": "https://www.sophia.org/lp/blackfridaypromo"
+      "title": "TryHackMe: 40% off annual Premium until Nov 27",
+      "detail": "TryHackMe's Black Friday sale takes 40% off annual Premium, no code needed. Ends 23:59 GMT Fri Nov 27 (5:59pm Central). First year only. SOC Level 1 (from Jan 16) needs Premium, so this is the deal you were watching for. Monthly plans aren't discounted.",
+      "link": "https://tryhackme.com/black-friday"
     }
   ]
 }
